@@ -1,0 +1,2 @@
+# cyber-encryption-and-decryption
+A simple project that enables encryption of a message in the fist GUI where the sender enters the key and authentication signature before sending it to the secound GUI, where the receiver(second GUI) can only decrypt the text by entering the private key set by bthe sender and can verify thet the message is from the known sender by the authentication signature entered.
